@@ -1,16 +1,24 @@
 1- Neste modulo aprendi a usar o grunt uma ferramenta poderosa de automação de tarefas via codigo .js
+
 2- Fazer a compilação do less
+
 3- Entender a divisão do ambiente de desenvolvedor é de produção e criar tarefas diferentes para cada ambiente para melhor organização
+
 4- Minificar e comprimir os asquivos finais .css
+
 5- A ampliar melhor meus diretorios 
 
 
 plugins usado 
 
 npm i -g grunt-cli // baixando de forma global 
+
 npm i --save-dev grunt // baixando de forma local na sua pasta 
+
 npm  i --save-dev grunt-contrib-less    \\ usa o less 
+
 npm  i --save-dev grunt-contrib-watch    \\ A função watch de observar e fazer a compilação do less 
+
 npm  i --save-dev grunt-contrib-uglify    \\ faz a compreção e a minificação dos  arquivos .js
 
 
